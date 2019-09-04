@@ -16,9 +16,6 @@ matconvnet-1.0-beta25
 ## Train
 ` run start_train.m `
 
-## models
-We also provide training models
-
 ## Test
 ` run test_classSR.m `
 
