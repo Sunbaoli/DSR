@@ -2,11 +2,10 @@
 
 This is the implementation of our paper "Depth Super-Resolution based on Deep Edge-Aware Learning"
 ## The proposed edge-guided depth super-resolution framework
-
 ![](https://github.com/Sunbaoli/DSR/blob/master/code/fig2.png)
 
 ## Results
-111
+![](https://github.com/Sunbaoli/DSR/blob/master/code/fig1.png)
 
 ## Dependences
 
