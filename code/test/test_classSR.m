@@ -12,7 +12,7 @@ scale=4;
 method='nearest';
 gpu=[2]; 
 
-net_path=sprintf('../x%d',scale);
+net_path=sprintf('../models/x%d',scale);
 
 % result_path=sprintf('result/NYU');
 mkdir(result_path);
