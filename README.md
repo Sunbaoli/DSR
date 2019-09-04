@@ -1,8 +1,12 @@
 # Depth Super-Resolution based on Deep Edge-Aware Learning
 
 This is the implementation of our paper "Depth Super-Resolution based on Deep Edge-Aware Learning"
+## The proposed edge-guided depth super-resolution framework
 
 ![](https://github.com/Sunbaoli/DSR/blob/master/code/fig2.png)
+
+## Results
+111
 
 ## Dependences
 
@@ -12,6 +16,9 @@ matconvnet-1.0-beta25
 
 ## Train
 ` run start_train.m `
+
+## models
+We also provide training models
 
 ## Test
 ` run test_classSR.m `
