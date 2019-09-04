@@ -2,7 +2,7 @@
 
 This is the implementation of our paper "Depth Super-Resolution based on Deep Edge-Aware Learning"
 
-![]()
+![](https://github.com/Sunbaoli/DSR/blob/master/code/fig2.png)
 
 ## Dependences
 
