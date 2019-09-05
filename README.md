@@ -22,10 +22,6 @@ matconvnet-1.0-beta25
 ## Citation 
 If you find ths code useful, please cite:
 
-` @inproceedings{PR2019, 
-  title={Depth Super-Resolution based on Deep Edge-Aware Learning},
-  author={Xinchen Ye, },
-  booktitle={Pattern Recognition (PR)},
-  year={2018}`
- } `
+` Xinchen Ye* et al., Depth Super-Resolution based on Deep Edge-Aware Learning, Submitted to Pattern Recognition, Major revision. `
+
 
