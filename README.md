@@ -20,7 +20,7 @@ matconvnet-1.0-beta25
 ` run test_classSR.m `
 
 ## Citation 
-If you find ths code useful, please cite:
+If you find this code useful, please cite:
 
 ` Xinchen Ye* et al., Depth Super-Resolution based on Deep Edge-Aware Learning, Submitted to Pattern Recognition, Major revision. `
 
