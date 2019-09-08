@@ -18,6 +18,7 @@ matconvnet-1.0-beta25
 
 ## Test
 ` run test_classSR.m `
+Testing on Middlebury noisy depth maps, you can modify the ` test_classSR.m ` in 
 
 ## Citation 
 If you find this code useful, please cite:
