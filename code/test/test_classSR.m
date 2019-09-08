@@ -65,7 +65,7 @@ for epoch=106%[0 1 10 20 30:10:300] %[110 120 130 140]%[10 20 50 60 70 80]%300:5
 	% [im_label,max_d,min_d]=normalize_cleanIm(im_label);
 	
 	% -------origin------
-	% im_depth=imnoise(imresize(im_label,1/scale,method),'gaussian',0,25/255/255);noisy_depth=im_depth;
+	% im_depth=imnoise(imresize(im_label,1/scale,method),'gaussian',0,(5/255)^2);noisy_depth=im_depth;
     im_depth=imresize(im_label,1/scale,method);
     noisy_depth=im_depth;
 	[im_depth,max_d,min_d]=normalize_cleanIm(im_depth);
