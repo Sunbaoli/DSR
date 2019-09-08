@@ -18,7 +18,10 @@ matconvnet-1.0-beta25
 
 ## Test
 ` run test_classSR.m `
-Testing on Middlebury noisy depth maps, you can modify the ` test_classSR.m ` in 
+
+Testing on Middlebury noisy depth maps, you can modify the 'test_classSR.m' in lines 68:
+` im_depth=imnoise(imresize(im_label,1/scale,method),'gaussian',0,(5/255)^2);noisy_depth=im_depth; `
+
 
 ## Citation 
 If you find this code useful, please cite:
