@@ -1,11 +1,15 @@
 # Depth Super-Resolution based on Deep Edge-Aware Learning
 
-This is the implementation of our paper "Depth Super-Resolution based on Deep Edge-Aware Learning"
+This repo implements the training and testing of depth upsampling networks for "Depth Super-Resolution based on Deep Edge- Awar Learning" by Xinchen Ye, Baoli Sun, and et al. at DLUT.
+
 ## The proposed edge-guided depth super-resolution framework
 ![](https://github.com/Sunbaoli/DSR/blob/master/code/fig2.png)
 
 ## Results
 ![](https://github.com/Sunbaoli/DSR/blob/master/code/fig1.png)
+
+
+This repo can be used for training and testing of depth upsampling under noiseless and noisy cases for Middleburry  datasets. Some trained models are given to facilitate simple testings before getting to know the code in detail. Besides,  the results of our inferred edge maps, recovered depth maps under both noiseless and noisy cases are all given to make it  easy to compare with and reference our work.
 
 ## Dependences
 
